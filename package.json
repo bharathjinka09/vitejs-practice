@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "dev": "npx vite"
+  },
+  "devDependencies": {
+    "vite": "^2.0.1"
+  }
+}
